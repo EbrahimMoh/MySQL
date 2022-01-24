@@ -1,2 +1,0 @@
-# MySQL
-DATABASE SQL
